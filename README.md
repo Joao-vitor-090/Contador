@@ -14,6 +14,8 @@
     O mesmo possui 3(três)funções principais como "iniciar", "pausar" e "parar".</p>
     <h2> 🔗Código que pode ser encontrado</h2>
     <p>Neste contador utilizei funções prontas que o JavaScript possue. Elas foram "setInterval" e "clearInterval"./p>
+    <h1> 🔗Link para o Projeto</h1>
+    <p>Acesse o Projeto por <a href = "https://joao-vitor-090.github.io/Counter-Contador/" target = "_blank"> aqui<a></p>
     <h1> 🔗Imagem do Projeto</h1>
     <img src="WhatsApp Image 2021-12-07 at 22.58.45.jpeg" alt="img_projeto">
 </div>
