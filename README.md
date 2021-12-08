@@ -4,6 +4,8 @@
     It has 3(three)main functions like "start", "pause" and "stop".</p>
     <h2> 🔗Code that can be found</h2>
     <p>In this counter I used ready-made functions that JavaScript has. They were "setInterval" and "clearInterval".</p>
+    <h1> 🔗Link to the Project</h1>
+    <p> Access the Project by <a href = "https://joao-vitor-090.github.io/Counter-Contador/" target = "_blank">ON HERE<a>.</p>
     <h1> 🔗Project Image</h1>
     <img src="WhatsApp Image 2021-12-07 at 22.58.45.jpeg" alt="img_project">
 </div>
@@ -15,7 +17,7 @@
     <h2> 🔗Código que pode ser encontrado</h2>
     <p>Neste contador utilizei funções prontas que o JavaScript possue. Elas foram "setInterval" e "clearInterval"./p>
     <h1> 🔗Link para o Projeto</h1>
-    <p>Acesse o Projeto por <a href = "https://joao-vitor-090.github.io/Counter-Contador/" target = "_blank"> aqui<a></p>
+    <p>Acesse o Projeto por <a href = "https://joao-vitor-090.github.io/Counter-Contador/" target = "_blank"> AQUI<a>.</p>
     <h1> 🔗Imagem do Projeto</h1>
     <img src="WhatsApp Image 2021-12-07 at 22.58.45.jpeg" alt="img_projeto">
 </div>
